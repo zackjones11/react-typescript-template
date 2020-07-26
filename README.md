@@ -1,39 +1,38 @@
 # React + TypeScript Template
 
-### Development setup
-## Install dependencies
+## Development setup
+### Install dependencies
 ```
 npm install
 ```
 
-### Commands
-## Run dev server
+## Commands
+### Run dev server
 ```
 npm run start:dev
 ```
 
-## Run Cypress
+### Run Cypress
 ```
 npm run start:cypress
 ```
 
-## Run unit tests
+### Run unit tests
 ```
 npm run test:unit
 ```
 
-## Run unit tests (watch)
+### Run unit tests (watch)
 ```
 npm run test:unit:watch
 ```
 
-## Run build
+### Run build
 ```
 npm run build
 ```
 
-### Included in template
-
+## Included in template
 * React JS
 * TypeScript (Strict)
 * Styled Components
